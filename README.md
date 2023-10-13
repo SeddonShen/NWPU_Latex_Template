@@ -33,9 +33,9 @@
 
 使用时需前往`NWPUReport.sty` 对标题、副标题、姓名、学号、学院、班级、页眉等进行设置，然后编辑`main.tex`进行正文编写
 
-|  [封面效果图](https://github.com/SeddonShen/NWPU_Latex_Template/blob/master/figures/content.png) |  [目录效果图](https://github.com/SeddonShen/NWPU_Latex_Template/blob/master/figures/cover.png)| 
+|  [封面效果图](https://github.com/SeddonShen/NWPU_Latex_Template/blob/master/figures/cover.png) |  [目录效果图](https://github.com/SeddonShen/NWPU_Latex_Template/blob/master/figures/content.png)| 
 |:---:|:---:|
-| ![Cover](https://github.com/SeddonShen/NWPU_Latex_Template/blob/master/figures/content.png?raw=true) | ![Content](https://github.com/SeddonShen/NWPU_Latex_Template/blob/master/figures/cover.png?raw=true)| 
+| ![Cover](https://github.com/SeddonShen/NWPU_Latex_Template/blob/master/figures/cover.png?raw=true) | ![Content](https://github.com/SeddonShen/NWPU_Latex_Template/blob/master/figures/content.png?raw=true)| 
 ## 参考
 本项目大部分内容源自[中国科学院大学通用课程大作业模板](https://github.com/jweihe/UCAS_Latex_Template), 感谢各位作者！
 + [中国科学院大学通用课程大作业模板](https://github.com/jweihe/UCAS_Latex_Template)
