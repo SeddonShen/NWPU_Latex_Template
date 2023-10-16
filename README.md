@@ -21,7 +21,7 @@
 ## 模板下载
 
 * 页面右边点击：**Clone or download -> Download Zip**
-* 已经上传至Overleaf模板，开箱即用 ☞ [Overleaf](https://www.overleaf.com/latex/templates/)
+* 已经上传至Overleaf模板，开箱即用 ☞ [Overleaf](https://www.overleaf.com/latex/templates/xi-bei-gong-ye-da-xue-tong-yong-ke-cheng-da-zuo-ye-mo-ban/xghwbnfdvksn)
 
 ## 使用方法
 默认模板文件由以下四部分组成：
